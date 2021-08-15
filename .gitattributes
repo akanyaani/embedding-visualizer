@@ -1,0 +1,9 @@
+word_embeddings/bert-base-chinese filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-large-cased filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-large-uncased-whole-word-masking filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-base-cased filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-base-german-cased filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-base-multilingual-cased filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-base-multilingual-uncased filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-base-uncased filter=lfs diff=lfs merge=lfs -text
+word_embeddings/bert-large-uncased filter=lfs diff=lfs merge=lfs -text
